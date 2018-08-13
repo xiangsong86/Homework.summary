@@ -1,0 +1,31 @@
+HTML核心技巧(怎么将本地代码上传到github库中)
+lesson1你不知道的HTML
+
+· 利用image测试网速、上报数据
+· CSS远程攻击漏洞
+· iframe对远程localStorage扩容
+· html语义化的重要性
+
+工欲善其事，必先利其器。
+vs-code建议装一个插件file icons 文件前面会有生产产品的图案 以便确认新建文件时是否正确
+Sublime建议装一个插件a file icons
+
+跨域的五种方式
+localStorage 只有5兆流/容量
+
+不同域 端口 协议 域名
+http -> scoect 协议不同
+yideng:80 yideng:8080 端口不同
+yideng taobao 域名
+
+html语义化：
+seo优化
+让别人更懂自己的代码
+有效控制
+em,strong,i 强调
+
+lesson2CSS3构建3D世界(1)
+translate位移rotate旋转 scale缩放
+
+lesson3【回放】CSS3高级使用技巧
+jd的bannenr没有开启3d硬件加速
